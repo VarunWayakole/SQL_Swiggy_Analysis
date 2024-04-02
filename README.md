@@ -6,18 +6,18 @@
 
 <p align="justify">The dataset, stored in the swiggy.csv file, contains comprehensive information about various restaurants, including their unique identifiers, names, locations, cuisines, menus, and more. The schema of the dataset is structured as follows:</p>
 
-restaurant_no: Unique identifier for each restaurant.<br>
-restaurant_name: Name of the restaurant.<br>
-city: City where the restaurant is located.<br>
-address: Address of the restaurant.<br>
-rating: Rating of the restaurant.<br>
-cost_per_person: Cost per person for dining at the restaurant.<br>
-cuisine: Cuisine offered by the restaurant.<br>
-restaurant_link: Link to the restaurant on Swiggy.
-menu_category: Category of items on the menu.<br>
-item: Name of the menu item.<br>
-price: Price of the menu item.
-veg_or_nonveg: Indicates whether the item is vegetarian or non-vegetarian.<br>
+- restaurant_no: Unique identifier for each restaurant.<br>
+- restaurant_name: Name of the restaurant.<br>
+- city: City where the restaurant is located.<br>
+- address: Address of the restaurant.<br>
+- rating: Rating of the restaurant.<br>
+- cost_per_person: Cost per person for dining at the restaurant.<br>
+- cuisine: Cuisine offered by the restaurant.<br>
+- restaurant_link: Link to the restaurant on Swiggy.
+- menu_category: Category of items on the menu.<br>
+- item: Name of the menu item.<br>
+- price: Price of the menu item.
+- veg_or_nonveg: Indicates whether the item is vegetarian or non-vegetarian.<br>
 
 This dataset provides a rich resource for exploring and analyzing trends in restaurant offerings and customer preferences on the Swiggy platform.
 
