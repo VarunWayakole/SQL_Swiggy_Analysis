@@ -30,9 +30,27 @@ This dataset provides a rich resource for exploring and analyzing trends in rest
 
 # Question & Answers
 
-**Q1. HOW MANY RESTAURANTS HAVE A RATING GREATER THAN 4.5 ?** <br>
+**Q1. How many restaurants have a rating greater than 4.5?** <br>
 
 ![Q1 ](https://github.com/VarunWayakole/SQL_Swiggy_Analysis/assets/91410941/b26c18e6-62b9-4262-a786-5b3f8968af38) <br>
 
 ![Q1 s](https://github.com/VarunWayakole/SQL_Swiggy_Analysis/assets/91410941/ecda9435-1217-4b35-8263-ed052034931f) <br>
+
+**Q2. Which city has the highest number of restaurants?** <br>
+
+![Q2](https://github.com/VarunWayakole/SQL_Swiggy_Analysis/assets/91410941/3ca32e02-86bd-4678-a957-5269c6ce7231) <br>
+
+![Q2 s](https://github.com/VarunWayakole/SQL_Swiggy_Analysis/assets/91410941/241bb3f3-12ae-4f15-8a50-1ca2543f9766) <br>
+
+**Q3. How many restaurants sell (have the word "pizza" in their name)?** <br>
+
+![Q3](https://github.com/VarunWayakole/SQL_Swiggy_Analysis/assets/91410941/4c32a448-1211-4913-a25f-96a717767a85) <br>
+
+![Q3 s](https://github.com/VarunWayakole/SQL_Swiggy_Analysis/assets/91410941/6bb071f4-8c98-45b2-a531-24f3007b7349) <br>
+
+**Q4. What is the most common cuisine among the restaurants in the dataset?** <br>
+
+![Q4](https://github.com/VarunWayakole/SQL_Swiggy_Analysis/assets/91410941/92f79d05-9ebf-4b06-bb49-3e0c7f5ddf11) <br>
+
+![Q4 s](https://github.com/VarunWayakole/SQL_Swiggy_Analysis/assets/91410941/5bb34644-6f45-4144-8b10-37c61e0d7920) <br>
 
