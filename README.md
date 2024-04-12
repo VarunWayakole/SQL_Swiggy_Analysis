@@ -27,3 +27,12 @@ This dataset provides a rich resource for exploring and analyzing trends in rest
 - Analyzing popular cuisines in different cities to tailor offerings to local preferences.
 - Exploring menu categories and items to understand the variety and depth of offerings.
 - Assessing the cost per person for dining to understand pricing strategies and affordability in different places.
+
+# Question & Answers
+
+**Q1. HOW MANY RESTAURANTS HAVE A RATING GREATER THAN 4.5 ?** <br>
+
+![Q1 ](https://github.com/VarunWayakole/SQL_Swiggy_Analysis/assets/91410941/b26c18e6-62b9-4262-a786-5b3f8968af38) <br>
+
+![Q1 s](https://github.com/VarunWayakole/SQL_Swiggy_Analysis/assets/91410941/ecda9435-1217-4b35-8263-ed052034931f) <br>
+
